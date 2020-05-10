@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Voice Changer</string>
+    <string name="add_music">Add Music</string>
+    <string name="hey">Hey</string>
+    <string name="idea">Idea</string>
+    <string name="mind">Mind</string>
+    <string name="record">Record</string>
+    <string name="claps">Claps</string>
+    <string name="yehaw">Yehaw</string>
+    <string name="drops">Drops</string>
+    <string name="stop">Stop</string>
+    <string name="_30">30</string>
+    <string name="recorder">Recorder</string>
+    <string name="effects">Effects</string>
+    <string name="image">image</string>
+</resources>
