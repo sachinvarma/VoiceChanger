@@ -194,7 +194,6 @@ class EffectsActivity : AppCompatActivity() {
         player = null
     }
 
-
     private fun showProgress() {
         progress_circular.visibility = View.VISIBLE
     }
