@@ -90,7 +90,6 @@ class EffectsActivity : AppCompatActivity() {
 
     }
 
-
     /**
      * Function used to play the audio like a Chipmunk
      */
@@ -105,10 +104,7 @@ class EffectsActivity : AppCompatActivity() {
             "asetrate=22100,atempo=1/2",
             fileName2
         )//Chipmunk
-
-
         exceuteFFMPEG(cmd)
-
     }
 
     /**
