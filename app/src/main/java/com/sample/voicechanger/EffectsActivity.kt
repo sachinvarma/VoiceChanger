@@ -43,7 +43,6 @@ class EffectsActivity : AppCompatActivity() {
         }
     }
 
-
     /**
      * Function to execute FFMPEG Query
      */
